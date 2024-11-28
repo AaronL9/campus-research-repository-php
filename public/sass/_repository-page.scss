@@ -1,0 +1,31 @@
+.repository-page {
+  width: 80%;
+  margin-inline: auto;
+  margin-top: 1rem;
+
+  section {
+    border: 1px solid #e6e6e6;
+    min-height: 500px;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+
+  h1 {
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .label {
+    color: #6c757d;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "aaronl9/campus-research-repository",
+  "description": "Thesis Management System",
+  "authors": [
+    {
+      "name": "Aaron Lomibao",
+      "email": "aaron.lomibao09@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
